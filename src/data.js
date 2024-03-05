@@ -24,7 +24,7 @@ const data = [
         image: 'https://img.freepik.com/premium-photo/memoji-happy-man-white-background-emoji_826801-6839.jpg'
     },
     {
-        id: 4,
+        id: 5,
         name: 'Maria',
         age: 24,
         image: 'https://img.freepik.com/free-photo/fashion-little-boy_71767-95.jpg'
