@@ -14,7 +14,7 @@ const App = () => {
         </>
       }<RemoveUser setPeople={setPeople} /></> : <>
       <p>No record found</p>
-      <button onClick={() => window.location.reload()} className='clear-btn'> Reset List</button>
+      <button onClick={() => setPeople(data)} className='clear-btn'> Reset List</button>
     </>}
   </div >
 }
